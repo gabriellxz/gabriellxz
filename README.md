@@ -3,6 +3,9 @@
 - 🤓 Atualmente sou estudante de programação na EEEP Adolfo Ferreira de Sousa.
 - 🤓 Estudando React com TypeScript.
 
+![](https://github-readme-stats.vercel.app/api?username=gabriellxz&theme=red-green&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=gabriellxz&theme=red-green&hide_border=false)<br/> 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Biel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Biel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
