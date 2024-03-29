@@ -37,15 +37,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriellxz&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/gabriellxz/gabriellxz/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img height="200" src="https://classic.exame.com/wp-content/uploads/2022/04/abel-e1649413702461.jpg?quality=70&strip=info&w=1024"  />
-</div>
-
-###
 
