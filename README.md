@@ -10,10 +10,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/gabriellxz/count.svg?"  />
-</div>
-
 ###
 
 <div align="center">
