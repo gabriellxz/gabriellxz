@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou Gabriel Silva</h1>
-<h3 align="center">Desenvolvedor web front-en</h3>
+<h3 align="center">Desenvolvedor web front-end</h3>
 <p>
   Sou desenvolvedor front-end com experiência desde os 15 anos em programação. Minha jornada começou com Java, mas ao longo do tempo me especializei no desenvolvimento web, tornando-me proficiente em React.js. Trabalho principalmente com JavaScript e TypeScript, criando interfaces modernas, performáticas e responsivas.
 </p>
