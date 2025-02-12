@@ -1,7 +1,3 @@
-### Opa, sou o Gabriel Silva!
-- desenvolvedor front-end.
-- Com 17 anos, estou atualmente cursando o 3º ano do curso de informática na EEEP Adolfo Ferreira de Sousa. Minha jornada na programação começou aos 15 anos, dentro da mesma escola, onde tive meu primeiro contato com a linguagem Java. Desde então, mergulhei de cabeça em tecnologias front-end, especializando-me em HTML e CSS. Ao longo do tempo, expandi meu conhecimento e hoje sou proficientes em React.ts, Tailwind CSS, JavaScript e Next.js, consolidando-me como desenvolvedor front-end.
-
 <h1 align="center">Olá, eu sou Gabriel Silva</h1>
 <h3 align="center">Desenvolvedor web front-end</h3>
 
@@ -21,11 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriellxz&show_icons=true&locale=en&layout=compact" alt="gabriellxz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriellxz&show_icons=true&locale=en" alt="gabriellxz" /></p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriellxz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriellxz&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-
-
