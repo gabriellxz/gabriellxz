@@ -8,10 +8,10 @@
 </div>
 
 ### Main Skills:
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,react,csharp,angular,tailwind)](https://skillicons.dev)
 
 ### 🗄️ Databases:
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
 
 ### ⚙️ DevOps:
 [![My Skills](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
