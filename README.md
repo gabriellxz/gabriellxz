@@ -8,7 +8,7 @@
 </div>
 
 ### Skills:
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,react,c#,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,tailwindcss,ts,nodejs,react,c#)](https://skillicons.dev)
 
 ### 🗄️ Databases:
 [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
@@ -17,7 +17,7 @@
 [![My Skills](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
 
 ### 🛠️ Tools:
-[![My Skills](https://skillicons.dev/icons?i=git,linux,windows,vscode,github,postman,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,linux,windows,vscode,github,postman,visualstudio,dbeaver)](https://skillicons.dev)
 
 
 </div>
