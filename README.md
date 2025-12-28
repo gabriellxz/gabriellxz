@@ -17,7 +17,7 @@
 [![My Skills](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
 
 ### 🛠️ Tools:
-[![My Skills](https://skillicons.dev/icons?i=git,linux,windows,vscode,github,postman,visualstudio,dbeaver)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dbeaver,git,linux,windows,vscode,github,postman,visualstudio)](https://skillicons.dev)
 
 
 </div>
