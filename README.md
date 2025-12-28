@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellxz&layout=compact&hide_border=true&title_color=9e9e9e&text_color=c9d1d9&bg_color=0d1117"/> 
 </div>
 
-### Main Skills:
+### Skills:
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,react,c#,angular,tailwind)](https://skillicons.dev)
 
 ### 🗄️ Databases:
@@ -17,7 +17,7 @@
 [![My Skills](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
 
 ### 🛠️ Tools:
-[![My Skills](https://skillicons.dev/icons?i=git,linux,windows,vscode,github,postman,insomnia,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,linux,windows,vscode,github,postman,visualstudio)](https://skillicons.dev)
 
 
 </div>
