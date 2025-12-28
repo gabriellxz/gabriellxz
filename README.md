@@ -8,7 +8,7 @@
 </div>
 
 ### Skills:
-[![My Skills](https://skillicons.dev/icons?i=angular,tailwindcss,ts,nodejs,react,c#,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,tailwindcss,ts,nodejs,react,c#,.net)](https://skillicons.dev)
 
 ### 🗄️ Databases:
 [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
